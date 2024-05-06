@@ -1,0 +1,11 @@
+h1 {
+  color: #016d97;
+  font-size: 3rem;
+}
+
+h1:hover {
+  font-size: 4rem;
+  font-weight: 600;
+  text-shadow: 0 0 10px #01327c;
+  color: #0b61ad;
+}

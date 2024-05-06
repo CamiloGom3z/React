@@ -1,0 +1,19 @@
+li>a {
+  font-size: 2rem;
+  padding: 15px;
+  color: #fff;
+  list-style: none;
+  text-decoration: none;  
+}
+
+li {
+  margin-right: 1rem;
+}
+
+li:hover {
+   
+  font-weight: 800;
+}
+
+
+

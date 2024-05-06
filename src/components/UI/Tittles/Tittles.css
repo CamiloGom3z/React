@@ -1,0 +1,20 @@
+.title{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin: 5px;
+    border-bottom: 8px solid #c1ff95;
+}
+.title > h2{
+  color: rgb(90, 86, 86);
+  width: 90%;
+  margin: 15px;
+
+  
+}
+.title > img{
+    height: 50px;
+    border-radius: 50%;
+}

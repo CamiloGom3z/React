@@ -1,0 +1,17 @@
+.redes-sociales {
+    background-color: #000000;
+    padding: 10px;
+    margin: 65px;
+    width: 250px;
+    height: 150px;
+    height: auto;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.icono-grande{
+    font-size: 35px;
+}
+
+
