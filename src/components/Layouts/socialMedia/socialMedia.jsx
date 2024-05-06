@@ -8,11 +8,11 @@ import { FaInstagramSquare,FaGithub,FaLinkedin } from "react-icons/fa";
 
 export const SocialMedia = () => {
   return (
-    <div class="redes-sociales">
-        <IoLogoWhatsapp />
-        <FaInstagramSquare />
-        <FaGithub />
-        <FaLinkedin />
+    <div className="redes-sociales">
+        <IoLogoWhatsapp className='iconos'/>
+        <FaInstagramSquare className='iconos' />
+        <FaGithub className='iconos' />
+        <FaLinkedin className='iconos' />
     </div>
   )
 }

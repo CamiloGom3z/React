@@ -1,15 +1,15 @@
 .header-page {
-  width: 35%;
+  width: 40%;
   height: 120%;
   background-color: #39a900;
   display: flex;
-  gap: 15px;
+  gap: 10px;
   flex-direction: column;
   color: white;
   align-items: center;  
 }
 .header-page > img{
-  width: 400px;
+  width: 350px;
   border-radius: 50%;
   padding: 10px;
 }

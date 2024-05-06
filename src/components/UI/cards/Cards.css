@@ -12,12 +12,15 @@
   }
   
   .card img {
-    width: 150px; /* Ancho deseado para la imagen */
+    width: 120px; /* Ancho deseado para la imagen */
     height: auto;
-    padding: 12px;
+    padding: 10px;
+    
+    
   }
   
   .card-content {
+    
     flex-grow: 1; /* El contenido ocupa todo el espacio disponible */
     padding: 20px;
     display: flex;

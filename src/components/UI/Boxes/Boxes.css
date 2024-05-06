@@ -1,7 +1,3 @@
-.container {
-  display: flex;
-  
-}
 
 .icono-con-barra {
   display: flex;
@@ -11,7 +7,7 @@
 }
 
 .icono {
-  font-size: 24px;
+  font-size: 60px;
   margin-bottom: 10px; /* Añadir margen inferior para separar el icono de la barra */
 }
 
@@ -26,4 +22,10 @@
   height: 100%;
   background-color: #00ff22; /* Color de la barra de progreso */
   border-radius: 5px; /* Borde redondeado de la barra de progreso */
+}
+p{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
 }

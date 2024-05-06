@@ -1,5 +1,5 @@
 .main-page{
-    width: 100%;
+    width: 60%;
     height: 100%;
     background-color: #ffffff;
     display: flex;
@@ -17,8 +17,8 @@
 .referencias{
     display: flex;
     flex-wrap: wrap;
-    gap: 60px;
-    width: 70%;
+    gap: 50px;
+    width: 80%;
 }
 .container{
     padding: 15px;

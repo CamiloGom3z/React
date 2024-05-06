@@ -48,7 +48,7 @@ export const Main = () => {
       </div>
       <Containers>
           <Tittles>
-            <img src="../../\src\assets\imgs\sena.jpeg" alt="" />
+            <img src="\imgs\sena.jpeg" alt="" />
             <h2>REFERENCIAS</h2>
           </Tittles>
       </Containers>
