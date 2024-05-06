@@ -16,31 +16,31 @@ export const Main = () => {
       </Containers>
       <Containers>
           <Tittles>
-            <img src="../../\src\assets\imgs\sena.jpeg" alt="" />
+            <img src="\imgs\sena.jpeg" alt="" />
             <h2>PROYECTOS</h2>
           </Tittles>
       </Containers>
       <div className='car'>
       <Card
-          imageUrl="../..\src\assets\imgs\OIP.jpeg"
+          imageUrl="\imgs\OIP.jpeg"
           title="PROYECTO 1"
           description="Descripción de la tarjeta 1."
           link="#"
         />
         <Card
-          imageUrl="../..\src\assets\imgs\ASD.jpeg"
+          imageUrl="\imgs\ASD.jpeg"
           title="PROYECTO 2"
           description="Descripción de la tarjeta 1."
           link="#"
         />
         <Card
-          imageUrl="../..\src\assets\imgs\OIP.jpeg"
+          imageUrl="\imgs\OIP.jpeg"
           title="PROYECTO 3"
           description="Descripción de la tarjeta 1."
           link="#"
         />
         <Card
-          imageUrl="../..\src\assets\imgs\ASD.jpeg"
+          imageUrl="\imgs\ASD.jpeg"
           title="PROYECTO 4"
           description="Descripción de la tarjeta 1."
           link="#"
@@ -60,7 +60,7 @@ export const Main = () => {
       </div>
       <Containers>
           <Tittles>
-            <img src="../../\src\assets\imgs\sena.jpeg" alt="" />
+            <img src="\imgs\sena.jpeg" alt="" />
             <h2>EXPERIENCIA</h2>
           </Tittles>
       </Containers>
